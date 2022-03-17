@@ -1,0 +1,22 @@
+#Basta colocar esse arquivo dentro da pasta .moc que fica localizada dentro da pasta home de seu SO.
+
+FormatString = "%(n:%n :)%(a:%a - :)%(t:%t:)%(A: \(%A\):)"
+
+OSSDevice = /dev/dsp
+OSSMixerDevice = /dev/mixer
+OSSMixerChannel1 = pcm             # 'pcm', 'master' or 'speaker'
+OSSMixerChannel2 = master          # 'pcm', 'master' or 'speaker'
+
+ALSADevice = default
+ALSAMixer1 = PCM
+ALSAMixer2 = Master
+
+Softmixer_SaveState = yes
+
+Equalizer_SaveState = yes
+
+ShowFormat = yes
+
+XTermTheme = transparente-fol
+
+
