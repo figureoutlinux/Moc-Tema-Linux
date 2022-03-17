@@ -11,4 +11,4 @@ Você pode editar e personalizar ao seu jeito mas recomendo sempre estar guardan
 ### 🔰Config 
 Para colocar a config em prática, basta vc baixar o arquivo e extrair para a pasta .moc que fica localizada dentro da pasta home de sua distro linux se for o caso de você querer alterar algo, entre em modo root (administrativo) e comece a editar você mesmo, esse arquivo .conf pode ser encontrado como conf.exemple no moc!
 
-## *"Seja livre, Seja Linux"* - Configurado e editado pelo autor e criador do canal no youtube Figure out Linux *"Descobrindo o Linux"
+## *"Seja livre, Seja Linux"* - Configurado e editado pelo autor e criador do canal no youtube Figure out Linux *"Descobrindo o Linux"*
