@@ -3,7 +3,7 @@ Aqui coloquei arquivos referente ao MOC play linux, um tema que eu desenvolvi e 
 Ela está pré configurada e com o tema já colocado e pronto para uso em seu terminal e realizar aquele sonho incrível dos anos 2000 😊
 
 
-### 🔰 Tema
+### 🔰Tema
 Para utilizar o tema, extrai o arquivo e o coloque (com permissões administrativas) dentro da pasta /usr/share/moc/themes e pronto, o restante está pronto no arquivo config que disponibilizei para download ou então se você já ter o config do moc basta editar na linha *XTermTheme = transparente-fol* que vai funcionar normalmente sem o menor problema! 
 Você pode editar e personalizar ao seu jeito mas recomendo sempre estar guardando um BackUp do arquivo😉
 
