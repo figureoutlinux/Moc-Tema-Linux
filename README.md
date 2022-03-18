@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://figureoutlinux.github.io/linux/header.png" /></a> 
+<br />
+#
+
 ## 🔰 Moc-Tema-Linux e config 
 Aqui coloquei arquivos referente ao MOC play linux, um tema que eu desenvolvi e que foi até que relativamente fácil e a config que se desejar pode ser utilizada em seu MOC Player. 
 Ela está pré configurada e com o tema já colocado e pronto para uso em seu terminal e realizar aquele sonho incrível dos anos 2000 😊
