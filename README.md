@@ -16,4 +16,4 @@ Para colocar o *config* em prática, basta vc baixar o arquivo e extrair para a 
  
 - [🔵 Neofetch - Mudando o Logo da Imagem usando o JP2A para codificar modo ASCII](https://www.youtube.com/watch?v=HeJQeDi5DkQ)<br/>
 
-## *"Seja livre, Seja Linux"* - Configurado e editado pelo autor e criador do canal no youtube Figure out Linux *"Descobrindo o Linux"*
+### *"Seja livre, Seja Linux"* - Configurado e editado pelo autor e criador do canal no youtube Figure out Linux *"Descobrindo o Linux"*
