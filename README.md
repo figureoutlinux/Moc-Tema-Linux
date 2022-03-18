@@ -6,7 +6,7 @@ Ela está pré configurada e com o tema já colocado e pronto para uso em seu te
 ### 🔰 Tema
 Para utilizar o tema, extrai o arquivo e o coloque (com permissões administrativas) dentro da pasta /usr/share/moc/themes e pronto, o restante está pronto no arquivo config que disponibilizei para download ou então se você já ter o config do moc basta editar na linha *XTermTheme = figureoutlinux_theme* que vai funcionar normalmente sem o menor problema! 
 Você pode editar e personalizar ao seu jeito mas recomendo sempre estar guardando um BackUp do arquivo😉
-https://figureoutlinux.github.io/linux/moc/as.png
+
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://figureoutlinux.github.io/linux/moc/as.png" /></a>
 
 ### 🔰 Config 
