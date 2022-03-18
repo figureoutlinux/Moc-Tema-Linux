@@ -1,4 +1,6 @@
-#Basta colocar esse arquivo dentro da pasta .moc que fica localizada dentro da pasta home de seu SO.
+# Basta colocar esse arquivo dentro da pasta .moc que fica localizada dentro da pasta home de seu SO
+# Fique a vontade em alterar as configurações para puro engrandecimento de seu conhecimento é válido
+# Config editada, se ficou ruim basta procurar a config.exemple no caminho onde se encontra o vídeo no youtube
 
 FormatString = "%(n:%n :)%(a:%a - :)%(t:%t:)%(A: \(%A\):)"
 
@@ -18,6 +20,4 @@ Equalizer_SaveState = yes
 ShowFormat = yes
 
 # para usar o tema que personalizei basta mudar a linha / nome do theme conforme o vídeo do canal
-XTermTheme = moca_theme
-
-
+XTermTheme = figureoutlinux_theme
