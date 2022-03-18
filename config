@@ -17,6 +17,7 @@ Equalizer_SaveState = yes
 
 ShowFormat = yes
 
-XTermTheme = transparente-fol
+# para usar o tema que personalizei basta mudar a linha / nome do theme conforme o vídeo do canal
+XTermTheme = moca_theme
 
 
